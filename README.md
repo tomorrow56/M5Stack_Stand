@@ -17,8 +17,7 @@ ESP32S3 Dev Module
 [m5stack avater for ATOM-S3](examples/m5stack_avater-S3)
 
 [Happy Mac & Sad Mac for ATOM-S3](examples/m5atom-S3-sadmec)
-
-https://twitter.com/tomorrow56/status/1616061570626510851?s=20&t=WHaEqJ0jcWjWOBKWr5KvDQ
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">早速作ってみました(笑) <a href="https://t.co/bkWQzv1oSs">pic.twitter.com/bkWQzv1oSs</a></p>&mdash; tomorrow56(Masawo Yamazaki)@モモモフ済 (@tomorrow56) <a href="https://twitter.com/tomorrow56/status/1616061570626510851?ref_src=twsrc%5Etfw">January 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## STL data 
 ### Classic Mac Stand for M5 ATOM-S3
