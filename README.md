@@ -18,8 +18,6 @@ ESP32S3 Dev Module
 
 [Happy Mac & Sad Mac for ATOM-S3](examples/m5atom-S3-sadmec)
 
-![](https://twitter.com/tomorrow56/status/1616061570626510851?ref_src=twsrc%5Etfw)
-
 ## STL data 
 ### Classic Mac Stand for M5 ATOM-S3
 <https://www.thingiverse.com/thing:5794170>
