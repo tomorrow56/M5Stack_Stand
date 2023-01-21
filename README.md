@@ -1,8 +1,13 @@
 # M5Stack_Stand
 
+Retro Mac Stand for M5Stack series.
+
 ![](img/MacStand.jpg)
 
 ## Sample Program (Arduino IDE)
+
+### Board Select
+ESP32S3 Dev Module
 
 ### Required libraris
 - M5Unified v0.1.1
@@ -12,6 +17,8 @@
 [m5stack avater for ATOM-S3](examples/m5stack_avater-S3)
 
 [Happy Mac & Sad Mac for ATOM-S3](examples/m5atom-S3-sadmec)
+
+https://twitter.com/tomorrow56/status/1616061570626510851?s=20&t=WHaEqJ0jcWjWOBKWr5KvDQ
 
 ## STL data 
 ### Classic Mac Stand for M5 ATOM-S3
