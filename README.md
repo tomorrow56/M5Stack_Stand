@@ -1,6 +1,6 @@
-# M5Stack_Stand
+# M5Stack ATOM-S3 Stand
 
-Retro Mac Stand for M5Stack series.
+Retro PC style Stand for M5Stack series.
 
 ![](img/MacStand.jpg)
 
@@ -23,5 +23,5 @@ ESP32S3 Dev Module
 ![](img/SadMac.png)
 
 ## STL data 
-### Classic Mac Stand for M5 ATOM-S3
+### Retro PC style stand for M5 ATOM-S3
 <https://www.thingiverse.com/thing:5794170>
