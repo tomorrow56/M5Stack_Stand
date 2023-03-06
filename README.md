@@ -2,7 +2,7 @@
 
 Retro PC style Stand for M5Stack series.
 
-![](img/MacStand.jpg)
+![](img/AtomS3Stand.jpg)
 
 ## Sample Program (Arduino IDE)
 
